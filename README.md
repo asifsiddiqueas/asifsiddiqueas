@@ -74,9 +74,8 @@ I'm at the beginning of my open-source journey and building my foundation delibe
 > In Progress
 
 **Key Highlights:**
-- [Feature or concept demonstrated — e.g., "Implements a custom linked list from scratch"]
-- [What you learned or applied — e.g., "Applied OOP principles with a modular class structure"]
-- [Any extra context — e.g., "Includes detailed documentation and sample test cases"]
+- Applied OOP principles with a modular class structure.
+
 
 `Status: 🔧 In Development` · [🔗 View Repository](#)
 
