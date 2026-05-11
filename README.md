@@ -1,7 +1,13 @@
 <div align="center">
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Asif%20Siddique&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Student%20·%20AI%20Enthusiast%20·%20Delhi%2C%20India&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Asif%20Siddique&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Student%20·%20AI%20Learner%20·%20Delhi%2C%20India&descAlignY=55&descSize=16" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Asif+Siddique+%F0%9F%91%8B;CS+Student+%40+Delhi+University;AI+%26+Data+Science+Learner;Open+to+Internships!" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asif%20Siddique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asifsiddiqueas)
+[![Profile Views](https://komarev.com/ghpvc/?username=asifsiddiqueas&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)](https://github.com/asifsiddiqueas)
+
+</div>
 </div>
 
 *B.Sc. Computer Science · University of Delhi · Delhi, India*
@@ -123,4 +129,5 @@ I'm always open to conversations about tech, learning together, or opportunities
 *Built with intention. Growing with purpose.*  
 **— A · S —**
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
