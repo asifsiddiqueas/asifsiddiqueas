@@ -105,7 +105,8 @@ Open Source Contribution        ████░░░░░░░░░░░░
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asifsiddiqueas&layout=compact&theme=tokyonight&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=asifsiddiqueas&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=asifsiddiqueas&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata&v=1)](https://git.io/streak-stdiv)
+
 </div>
 
 ---
