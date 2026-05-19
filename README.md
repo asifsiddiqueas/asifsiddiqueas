@@ -101,7 +101,7 @@ Open Source Contribution        ████░░░░░░░░░░░░
 
 <div align="center">
 
-![Asif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asifsiddiqueas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats of Asif](https://github-readme-stats.vercel.app/api?username=asifsiddiqueas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asifsiddiqueas&layout=compact&theme=tokyonight&hide_border=true)
 
