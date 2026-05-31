@@ -97,7 +97,7 @@ Open Source Contribution        ████░░░░░░░░░░░░
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats. 
 
 <div align="center">
 
