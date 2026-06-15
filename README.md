@@ -74,7 +74,7 @@ I'm at the beginning of my open-source journey and building my foundation delibe
 > In Progress
 
 **Key Highlights:**
-- Applied OOP principles with a modular class structure.
+- Applied OOP principles with a modular class structure... 
 
 
 `Status: 🔧 In Development` · [🔗 View Repository](#)
