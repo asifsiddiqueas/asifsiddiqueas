@@ -111,7 +111,7 @@ Open Source Contribution        ████░░░░░░░░░░░░
 
 ---
 
-## 🤝 Let's Connect... 
+## 🤝 Let's Connect.
 
 I'm always open to conversations about tech, learning together, or opportunities where I can contribute and grow. If you're a recruiter, a fellow student, or a developer — feel free to reach out.
 
