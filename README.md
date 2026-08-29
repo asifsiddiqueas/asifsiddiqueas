@@ -19,7 +19,7 @@
 
 ---
 
-## 👋 About Me...
+## 👋 About Me.
 
 Hey, I'm **Asif** — a Computer Science student at the **University of Delhi** with a genuine love for understanding how systems work, from the silicon up to the algorithm.
 
