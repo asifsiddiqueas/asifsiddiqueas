@@ -35,7 +35,7 @@ I'm at the beginning of my open-source journey and building my foundation delibe
 
 ---
 
-## 🛠️ Skills & Tech Stack
+## 🛠️ Skills & Tech Stack.
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
