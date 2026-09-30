@@ -13,7 +13,7 @@
 *B.Sc. Computer Science · University of Delhi · Delhi, India*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Asif%20Siddique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asifsiddiqueas)
-[![Profile Views](https://komarev.com/ghpvc/?username=asifsiddiqueas&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)](https://github.com/asifsiddiqueas)
+[![Profile Views](https://hits.seeyoufarm.dev/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fasifsiddiqueas&count_bg=%230E75B6&title_bg=%23555555&title=PROFILE%20VIEWS)](https://github.com/asifsiddiqueas)
 
 </div>
 
